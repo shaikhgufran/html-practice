@@ -1,0 +1,11 @@
+h1{
+    color: blue
+}
+#unique-heading{
+    color: darkred;
+}
+
+.center{
+    text-align: center;
+    color: blue;
+}
